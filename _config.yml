@@ -1,5 +1,5 @@
 # Basic Information 
-title: Lingjia Hou Sebastian
+title: Lingjia Hou
 position: Sophomore Student
 affiliation: Future Campus, Soochow University
 email: 1244713092@qq.com
@@ -8,13 +8,12 @@ email: 1244713092@qq.com
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: 苏州大学未来校区
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://zhuchyu-sebastian.github.io
+canonical: https://Lingjia-Hou.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line. 我先把linked和google scholar注释掉了
-#google_scholar: https://scholar.google.com/
-github_link: https://github.com/ZhuChyu-Sebastian
-#linkedin: https://xinyu1213.github.io
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/Lingjia-Hou
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
