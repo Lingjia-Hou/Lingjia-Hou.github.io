@@ -11,13 +11,12 @@ description: The Minimal Light is a simple and elegant jekyll theme for academic
 canonical: https://Lingjia-Hou.github.io
 
 # Links 
-# If you don't need one of them, you may delete the corresponding line. 我先把linked和google scholar注释掉了
 google_scholar: https://scholar.google.com/
 github_link: https://github.com/Lingjia-Hou
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/fox.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
