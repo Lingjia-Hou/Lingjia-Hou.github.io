@@ -15,14 +15,9 @@ google_scholar: https://scholar.google.com/
 github_link: https://github.com/Lingjia-Hou
 
 # Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/fox.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
-
-# Google Analytics ID
-# Please remove this if you don't use Google Analytics。注释掉了
-#google_analytics: UA-111540567-4
+favicon: ./assets/img/cov.png
+favicon_dark: ./assets/img/cov.png
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
