@@ -14,7 +14,7 @@ reference algorithms
 
 ## News
 
-- **[OCT 20th, 2022]**  I'm honored to join the team called [BeeLab](https://xinyu1213.github.io).🎉✨ 
+- **[OCT 20th, 2022]**  I'm honored to join the team called [BeeLab](https://beelab955.github.io/).🎉✨ 
 - **[DEC. 2022]** To be updated.
 - **[Mar. 2022]** To be updated.
 
