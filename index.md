@@ -15,7 +15,7 @@ reference algorithms
 ## News
 
 - **[OCT 20th, 2022]**  I'm honored to join the team called [BeeLab](https://beelab955.github.io/).🎉✨
-- **[JUN. 2023]** China Computer Design Competition province three.
+- **[JUN. 2023]** China Computer Design Competition Province third.
 - **[AUG. 2023]** China Computer Design Competition National third.
 - To be updated...
 
